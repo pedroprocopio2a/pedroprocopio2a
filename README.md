@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, Seja Bem-vindo ao meu perfil! ⚓ 👋
 
-<!--
-**pedroprocopio2a/pedroprocopio2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é **Pedro** e usarei este local para publicar alguns de meus trabalhos;
+- Sou aluno da Escola Isac de Dracena;
+- Realizo trabalhos de programação pelo [scratch](https://scratch.mit.edu/) e [JavaScript](https://editor.p5js.org/);
 
-Here are some ideas to get you started:
+  Podem entrar em contato comigo 📧
+  
+  0000111377616xsp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![](https://media0.giphy.com/media/AL8YW9byLb9Cg/200.webp?cid=790b7611qf27nkcg6mxcbbyi21z4kjap4xeo153u44fdu384&ep=v1_gifs_search&rid=200.webp&ct=g)
+  
+
+  
+
